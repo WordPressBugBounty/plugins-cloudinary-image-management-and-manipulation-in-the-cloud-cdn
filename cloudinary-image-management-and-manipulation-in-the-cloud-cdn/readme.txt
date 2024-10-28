@@ -4,7 +4,7 @@ Tags: image-optimizer, core-web-vitals, responsive-images, resize, performance
 Requires at least: 4.7
 Tested up to: 6.6.2
 Requires PHP: 5.6
-Stable tag: 3.2.1
+Stable tag: 3.2.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -140,6 +140,17 @@ Your site is now setup to start using Cloudinary.
 
 
 == Changelog ==
+
+
+= 3.2.2 (28 October 2024) =
+
+Fixes and improvements:
+
+* Clarified the concept of global transformations across plugin settings and post types
+* Improved CLI sync reliability
+* Fixed PDF files not showing as embedded from the media library
+* Fixed image block errors causing block recovery prompts
+* Added compatibility for password-protected websites
 
 
 = 3.2.1 (18 September 2024) =
