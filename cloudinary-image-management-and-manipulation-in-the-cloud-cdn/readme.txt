@@ -4,7 +4,7 @@ Tags: image-optimizer, core-web-vitals, video, resize, performance
 Requires at least: 4.7
 Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 3.2.9
+Stable tag: 3.2.10
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -146,9 +146,16 @@ Your site is now setup to start using Cloudinary.
 
 == Changelog ==
 
-3.2.9 (24 June 2025)
+= 3.2.10 (24 June 2025) =
 
 Fixes and Improvements:
+
+* Upgraded the Cloudinary Video Player to v3.0.2
+
+= 3.2.9 (24 June 2025) =
+
+Fixes and Improvements:
+
 * Upgraded the Cloudinary Video Player to v3.0.1
 * Improved cronjob stability with a new “enabled by default” check
 * Fixed a relationship table issue affecting the Timber theme
