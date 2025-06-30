@@ -4,7 +4,7 @@ Tags: image-optimizer, core-web-vitals, video, resize, performance
 Requires at least: 4.7
 Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 3.2.10
+Stable tag: 3.2.11
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,13 @@ Your site is now setup to start using Cloudinary.
 
 
 == Changelog ==
+
+= 3.2.11 (30 June 2025) =
+
+Fixes and Improvements:
+
+* Cron jobs now disabled by default to reduce unnecessary requests
+* Updated REST API in FAQ to support enabling/disabling the cron jobs
 
 = 3.2.10 (24 June 2025) =
 
