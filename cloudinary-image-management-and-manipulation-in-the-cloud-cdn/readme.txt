@@ -1,10 +1,10 @@
 === Cloudinary - Deliver Images and Videos at Scale ===
 Contributors: Cloudinary, XWP, Automattic
 Tags: image-optimizer, core-web-vitals, video, resize, performance
-Requires at least: 4.7
-Tested up to: 6.9.1
+Requires at least: 5.6
+Tested up to: 6.9.4
 Requires PHP: 7.4
-Stable tag: 3.3.2
+Stable tag: 3.3.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,12 @@ Your site is now setup to start using Cloudinary.
 
 
 == Changelog ==
+
+= 3.3.3 (29 April 2026) =
+
+Fixes and Improvements:
+
+* Minor bug fixes and performance improvements
 
 = 3.3.2 (23 February 2026) =
 
