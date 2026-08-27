@@ -4,7 +4,7 @@ Tags: image-optimizer, core-web-vitals, video, resize, performance
 Requires at least: 5.6
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 3.3.6
+Stable tag: 3.3.7
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,12 @@ Your site is now setup to start using Cloudinary.
 
 
 == Changelog ==
+
+= 3.3.7 (27 August 2026) =
+
+Fixes and Improvements:
+
+* Fixed an issue that prevented the Media Library Widget from loading. Thanks to @eugenepg for the contribution
 
 = 3.3.6 (25 August 2026) =
 
