@@ -1,10 +1,10 @@
 === Cloudinary - Deliver Images and Videos at Scale ===
 Contributors: Cloudinary, XWP, Automattic
 Tags: image-optimizer, core-web-vitals, video, resize, performance
-Requires at least: 5.6
+Requires at least: 6.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 3.3.7
+Stable tag: 3.3.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,13 @@ Your site is now setup to start using Cloudinary.
 
 
 == Changelog ==
+
+= 3.3.8 (23 September 2026) =
+
+Fixes and Improvements:
+
+* Improved: Updated WPML compatibility to support WPML 5.0
+* Fixed: Uploading a file with the same filename as an existing Cloudinary asset no longer overwrites the existing asset
 
 = 3.3.7 (27 August 2026) =
 
